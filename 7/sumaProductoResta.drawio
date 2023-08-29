@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2023-08-28T14:49:21.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qIjRI11g3KiKI5Kyi_vq" version="21.6.9" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="874" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8qLdJWQ0IrZEhEdjo8X5-0" target="8qLdJWQ0IrZEhEdjo8X5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8qLdJWQ0IrZEhEdjo8X5-1" target="8qLdJWQ0IrZEhEdjo8X5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-1" value="&quot;Ingrese dos valores&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8qLdJWQ0IrZEhEdjo8X5-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-2" value="valor1, valor2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="332.5" y="210" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8qLdJWQ0IrZEhEdjo8X5-3" target="8qLdJWQ0IrZEhEdjo8X5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-3" value="suma&amp;lt;- valor1 + valor2&lt;br&gt;producto &amp;lt;- valor1 * valor2&lt;br&gt;resta&amp;lt;-valor1 - valor2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="307.5" y="300" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365.01" y="500" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8qLdJWQ0IrZEhEdjo8X5-5" target="8qLdJWQ0IrZEhEdjo8X5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qLdJWQ0IrZEhEdjo8X5-5" value="&quot;La suma de los valores es:&quot;, suma&lt;br&gt;&quot;El producto de los valores es:&quot;, producto&lt;br&gt;&quot;La resta de los valores es:&quot;, resta" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="278.13" y="390" width="233.75" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

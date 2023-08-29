@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-08-28T14:53:01.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ui_jss-rHyA8LFz5EWN6" version="21.6.9" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="874" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZUiY5UlN_CVLT3a_ozwZ-0" target="ZUiY5UlN_CVLT3a_ozwZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="334" y="60" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="334" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZUiY5UlN_CVLT3a_ozwZ-2" target="ZUiY5UlN_CVLT3a_ozwZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-2" value="&quot;Ingrese valor de la hora y horas trabajadas&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="304" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZUiY5UlN_CVLT3a_ozwZ-3" target="ZUiY5UlN_CVLT3a_ozwZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-3" value="valorHora, horasTrabajadas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="296" y="260" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZUiY5UlN_CVLT3a_ozwZ-4" target="ZUiY5UlN_CVLT3a_ozwZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-4" value="sueldo &amp;lt;- valorHora * tiempoTrabajado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="276" y="350" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZUiY5UlN_CVLT3a_ozwZ-5" target="ZUiY5UlN_CVLT3a_ozwZ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZUiY5UlN_CVLT3a_ozwZ-5" value="&quot;El sueldo del trabajador es:&quot;, sueldo" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="291" y="440" width="146" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
